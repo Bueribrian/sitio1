@@ -1,0 +1,68 @@
+body{
+font-size: 16px;
+font-family: courier new;	
+background:url(fondo.jpg) no-repeat ;
+background-size: cover;
+padding:5px 100px;
+margin-left: 2px;
+margin-right: 1px;
+}
+
+#banner{
+	width: 22.5%;
+	text-align: center;
+	border: 5px transparent black;
+	padding: 50px 500px;
+	font-size: 20px;
+	text-shadow: 1px 1px 5px pink;
+margin-left: -100px;
+margin-right:-5px;
+margin-top: 5px;
+padding-right: 580px;
+box-shadow: 10px 10px 20px black;
+background-color: rgba(0, 0, 0, 0.91);
+background-size: cover;
+box-shadow: inset 2px 2px 20px 0 black;
+border-radius: 5px 5px;
+color: white;
+opacity: 0.9;
+}
+a{
+	text-decoration: none;
+	color: pink;
+	border:1px solid black;
+	border-radius: 5px;
+	background-color: black;
+	box-shadow: 1px 1px 1px black;
+}
+hr{
+	border:1px solid black;
+}
+.cuerpo{
+	border: 1px transparent white;
+	padding: 40px 20px;
+	background: rgba(255,255,255,0.3);
+	
+	margin: 20px;
+	box-shadow: 5px 5px 50px black;
+	border-radius: 5px 5px;
+	color: black opacity 1.0;
+}
+.logo{
+	border:1px solid black;
+	padding: 1px 1px;
+	background-color: black;
+	color: white;
+	border-radius: 5px 5px;
+	margin-left: -100px;
+	margin-bottom: 20px;
+}
+.linea{
+margin-bottom: -20px;
+margin-top: 5px;
+margin-left: -20px;
+width: 100%;
+	border:1px black solid;
+	opacity: 0.6;
+border-radius: 2px 2px;
+}
